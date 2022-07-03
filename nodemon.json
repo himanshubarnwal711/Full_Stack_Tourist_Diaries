@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "veerappan711",
+    "DB_PASSWORD": "Vaniya1996",
+    "DB_NAME": "mern-prod",
+    "GOOGLE_API_KEY": "AIzaSyAxEGYD3Rsh4hgsC9GQ7Mjp6Bt6F5upgiA",
+    "JWT_KEY": "its_meant$to#be907%open@source"
+  }
+}
